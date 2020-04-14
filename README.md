@@ -22,3 +22,15 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### notes
+
+#### manage project and deps from vue's web graphical ui
+```
+vue ui
+```
+
+#### using json-server as server api mockup
+```
+json-server --watch db.json
+```
