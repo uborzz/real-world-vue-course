@@ -71,6 +71,20 @@
           "name": "Mary Gordon"
         }
       ]
+    },
+    {
+      "id": 3401036,
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Adam Jahr"
+      },
+      "title": "Caca",
+      "description": "Futi",
+      "location": "Behind the musgo",
+      "date": "2020-04-01T16:45:00.000Z",
+      "time": "17:00",
+      "attendees": []
     }
   ]
 }
